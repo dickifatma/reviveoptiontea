@@ -3,11 +3,12 @@
     "chalk": "^5.3.0",
     "chalkpasstea": "^1.0.0",
     "henlo-tea": "^1.0.3",
+    "jumlah-tiga-angka": "^1.0.0",
     "rolluptea": "^1.0.0"
   },
   "name": "reviveoptiontea",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "res.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
